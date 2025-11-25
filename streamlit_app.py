@@ -75,10 +75,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 
-lables[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
-lables[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]},
-lables[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://www.chosun.com/resizer/v2/YPSL2DAN5VDJ5C3HNXWHKJGCRU.jpg?auth=d98ca02f38dff609ee5b3bee78894f70a11a2b0e7d232c84581ebb04140eeb76&width=616"]},
-lables[3] : {"texts" : ["탕수은 맛있어"], "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2020/07/05/2e0e7c019f283bcc36d34cdee876d15b1.jpg"]},
+lables[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRw0AMiPUOLw5xXSzmmAqB58rpbWOoQI9iSA&s"]},
+lables[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://www.canceranswer.co.kr/news/photo/202103/2199_3592_056.jpg"]},
+lables[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://blog.kakaocdn.net/dna/YPxRW/btrzhpNljHH/AAAAAAAAAAAAAAAAAAAAAAhVpctCZeeRfUJSzJ9VBLKsQHsA38Gk5_KTV934P7vk/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=KtGzPuSD0MLN59%2BpAsKcHnaNZ0U%3D"]},
+lables[3] : {"texts" : ["탕수은 맛있어"], "images" : ["https://shop.hansalim.or.kr/im/is/activeDesigner/%EC%B0%B9%EC%8C%80%ED%83%95%EC%88%98%EC%9C%A1_060306001.jpg"]},
     }
 # ======================
 # 유틸
