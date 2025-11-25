@@ -75,7 +75,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 
-lables[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRw0AMiPUOLw5xXSzmmAqB58rpbWOoQI9iSA&s"]},
+lables[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://static.wtable.co.kr/image-resize/production/service/recipe/1219/4x3/99632945-221c-4266-929d-5f6983046fe6.jpg"]},
 lables[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://www.canceranswer.co.kr/news/photo/202103/2199_3592_056.jpg"]},
 lables[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://blog.kakaocdn.net/dna/YPxRW/btrzhpNljHH/AAAAAAAAAAAAAAAAAAAAAAhVpctCZeeRfUJSzJ9VBLKsQHsA38Gk5_KTV934P7vk/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=KtGzPuSD0MLN59%2BpAsKcHnaNZ0U%3D"]},
 lables[3] : {"texts" : ["탕수은 맛있어"], "images" : ["https://shop.hansalim.or.kr/im/is/activeDesigner/%EC%B0%B9%EC%8C%80%ED%83%95%EC%88%98%EC%9C%A1_060306001.jpg"]},
